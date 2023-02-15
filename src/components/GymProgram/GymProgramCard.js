@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React from "react";
 import DumbbellIcon from "../Image/dumbbell.png";
 
 const GymProgramCard = ({ title, desc }) => (

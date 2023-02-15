@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React from "react";
 import Link from "./Link";
 import Button from "../GlobalComponents/Button";
 

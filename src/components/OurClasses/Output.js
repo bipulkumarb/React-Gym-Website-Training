@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React from "react";
 import Button from "../GlobalComponents/Button";
 
 const Output = ({ title, info, img }) => (

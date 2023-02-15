@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React, { useState } from "react";
+import  { useState } from "react";
 import Icon from "../GlobalComponents/Icon";
 import scheduleBg from "../Image/scheduleBg.jpg";
 import ScheduleLinks from "./ScheduleLinks";
@@ -8,7 +8,7 @@ import Table from "./Table";
 import Container from "../GlobalComponents/Container";
 
 const Schedule = () => {
-  const [hidden, setHidden] = useState(false);
+  // const [hidden, setHidden] = useState(false);
   const [day, setDay] = useState("Monday");
 
   return (

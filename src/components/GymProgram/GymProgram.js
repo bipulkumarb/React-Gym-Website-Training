@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React from "react";
 import Icon from "../GlobalComponents/Icon";
 import GymTitle from "./GymTitle";
 import GymSubtitle from "./GymSubtitle";

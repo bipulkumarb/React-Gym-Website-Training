@@ -1,10 +1,10 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import React from "react";
 
 const Map = () => (
   <div css={styles} className="mapouter">
     <iframe
+    title="abc"
       id="gmap_canvas"
       src="https://maps.google.com/maps?q=Av.%20L%C3%BAcio%20Costa&t=&z=13&ie=UTF8&iwloc=&output=embed"
     ></iframe>
