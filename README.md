@@ -1,2 +1,2 @@
 This project is hosted on netlify
-https://app.netlify.com/sites/neo-gym/overview
+https://neo-gym.netlify.app/
